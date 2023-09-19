@@ -3,7 +3,7 @@
 * CTFd v3.6.0 + ctfd-whale + ctfd-pages-theme 
 
 
-‍
+不会上传，所以文件把文件放群里了，群号在下面
 
 ‍
 
