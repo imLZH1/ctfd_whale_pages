@@ -30,7 +30,7 @@ sudo apt install docker-compose
 
 ‍
 
-​![image](assets/image-20230920042250-cotz2cn.png)​
+​![image](image-20230920042250-cotz2cn.png)​
 
 ‍
 
@@ -59,7 +59,7 @@ sudo docker swarm init
 sudo docker node update --label-add='name=linux-1' $(sudo docker node ls -q)
 ```
 
-​![image](assets/image-20230920042406-kbsxzt3.png)​
+​![image](image-20230920042406-kbsxzt3.png)​
 
 ‍
 
@@ -73,7 +73,7 @@ sudo docker node update --label-add='name=linux-1' $(sudo docker node ls -q)
 sudo docker-compose up -d
 ```
 
-​![image](assets/image-20230920042620-jes8gsf.png)​
+​![image](image-20230920042620-jes8gsf.png)​
 
 ‍
 
