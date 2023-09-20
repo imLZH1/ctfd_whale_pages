@@ -14,13 +14,8 @@
 
 - bilibili 视频使用教程
 
-https://www.bilibili.com/video/BV1sK4y1w7uH/?spm_id_from=333.999.0.0
+https://www.bilibili.com/video/BV1sK4y1w7uH
 
-
-
-<iframe src="//player.bilibili.com/player.html?aid=873688916&bvid=BV1sK4y1w7uH&cid=1272816227&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-[![Alternate Text]({NUll})]({https://www.bilibili.com/video/BV1sK4y1w7uH} "Link")
 
 
 
