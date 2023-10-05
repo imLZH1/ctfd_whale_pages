@@ -1,21 +1,25 @@
 # CTFd v3.6.0 + ctfd-whale + ctfd-pages-theme
 
 
-
-！！！！ 不要clone
-请在 Releases 栏下载最新集成修改版本！！
-
+## 注意事项
+- ！！！！ 不要clone
+- 请在 Releases 栏下载最新集成修改版本！！
+- 
 
 
 
 
 ## Update
 
->CTFd-2023-10-05_backup
+> v3.6.0
 - 后台添加docker动态环境,增加docker images 列表
-- 修复前台一一些bug
+- 修复前台一些bug
 - 添加了矩阵记分板
 
+> v3.6.1
+- 新增解题播报功能
+- 提交正确的flag后，可以向其他在线用户播报（并添加到通知里，也可以修改不添加）
+- 此修改版本遇到任何使用上的问题，可以联系我，群号在下面。
 
 ## 部分说明
 
@@ -31,6 +35,8 @@
 
 https://www.bilibili.com/video/BV1sK4y1w7uH
 
+- 下载地址
+https://github.com/imLZH1/ctfd_whale_pages
 
 
 
