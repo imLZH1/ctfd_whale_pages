@@ -1,8 +1,22 @@
-# CTFd v3.6.0 + ctfd-whale + ctfd-pages-theme 
-
 # CTFd v3.6.0 + ctfd-whale + ctfd-pages-theme
 
 
+
+
+
+
+
+
+
+## Update
+
+>CTFd-2023-10-05_backup
+- 后台添加docker动态环境,增加docker images 列表
+- 修复前台一一些bug
+- 添加了矩阵记分板
+
+
+## 部分说明
 
 * 集成环境
 
@@ -116,6 +130,4 @@ docker-compose up -d
 蔡徐坤篮球协会 信息部
 QQ: 591613671
 ```
-
-
 
