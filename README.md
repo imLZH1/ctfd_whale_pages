@@ -1,14 +1,6 @@
 # CTFd v3.6.0 + ctfd-whale + ctfd-pages-theme
 
 
-## 注意事项
-- ！！！！ 不要clone
-- 请在 Releases 栏下载最新集成修改版本！！
-- 
-
-
-
-
 ## Update
 
 > v3.6.0
@@ -21,6 +13,56 @@
 - 提交正确的flag后，可以向其他在线用户播报（并添加到通知里，也可以修改不添加）
 - 如果要使用，请自行后台reset后在使用。（懒得初始化，有问题来问我蛤）
 - 此修改版本遇到任何使用上的问题，可以联系我，群号在下面。
+
+
+## 注意事项
+- ！！！！ 不要clone
+- 请在 Releases 栏下载最新集成修改版本！！
+- 
+
+
+## 使用教程（只看这个安装就行了）
+
+- 请在 Releases 栏下载最新集成修改版本
+
+
+ - 初始化集群
+ 
+```python
+sudo docker swarm init
+sudo docker node update --label-add='name=linux-1' $(sudo docker node ls -q)
+```
+
+​
+
+
+下载zip后解压，然后cd 
+
+```python
+unzip v3.6.1.zip
+cd CTFd
+rm -rf ./.data # 删除 CTFd下的 .data(主要是我test期间的数据，后期上传版本前我会自己删)
+docker-compose up -d  # 直接启动什么都不要管
+```
+
+默认端口是80可以修改的
+![image](https://github.com/imLZH1/ctfd_whale_pages/assets/60182298/8f791dc9-29d6-4a0c-bad0-80b57afcc38c)
+
+
+- 访问页面,然后先配置基础的设置
+
+![image](https://github.com/imLZH1/ctfd_whale_pages/assets/60182298/5d0e0463-c726-434d-8803-6b9ec9ba6fd1)
+
+- 到后台配置一下这个
+
+  ![image](https://github.com/imLZH1/ctfd_whale_pages/assets/60182298/66dfcad4-2d15-4a70-9ce5-824b535b766c)
+
+![image](https://github.com/imLZH1/ctfd_whale_pages/assets/60182298/261a47ac-dc45-4ee7-a519-221861a60744)
+
+![image](https://github.com/imLZH1/ctfd_whale_pages/assets/60182298/1626a3d2-cf51-4565-806c-9fcb76c4713c)
+
+配置完成
+
 
 ## 部分说明
 
@@ -38,6 +80,9 @@ https://www.bilibili.com/video/BV1sK4y1w7uH
 
 - 下载地址
 https://github.com/imLZH1/ctfd_whale_pages
+
+
+
 
 
 
@@ -87,47 +132,8 @@ sudo apt install docker-compose
 
 
 
-## 初始化集群
 
 
-
-```python
-sudo docker swarm init
-sudo docker node update --label-add='name=linux-1' $(sudo docker node ls -q)
-```
-
-![image](image-20230920042406-kbsxzt3.png)​
-
-
-
-
-
-## CTFd ！启动
-
-
-
-```pytthon
-sudo docker-compose up -d
-```
-
-![image](image-20230920042620-jes8gsf.png)​
-
-
-
-## 打包好的
-
-
-
-```python
-git clone https://github.com/imLZH1/ctfd_whale_pages.git
-cd ctfd_whale_pages
-docker-compose up -d
-
-```
-
-
-
-启动好后 用 admin:admin 登录后台 config->reset 清除数据，然后你就可以自己配置啦·？
 
 
 
