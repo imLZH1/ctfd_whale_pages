@@ -61,7 +61,12 @@ docker-compose up -d  # 直接启动什么都不要管
 
 ![image](https://github.com/imLZH1/ctfd_whale_pages/assets/60182298/1626a3d2-cf51-4565-806c-9fcb76c4713c)
 
-配置完成
+提交配置完成
+
+- 切换这个主题
+![image](https://github.com/imLZH1/ctfd_whale_pages/assets/60182298/374ac042-d784-4cb0-bae2-8a82b22206ea)
+
+
 
 
 ## 部分说明
