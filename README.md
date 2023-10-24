@@ -44,8 +44,9 @@ sudo docker node update --label-add='name=linux-1' $(sudo docker node ls -q)
 ```python
 unzip v3.6.1.zip
 cd CTFd
+sudo chmod +x -R .
 rm -rf ./.data # 删除 CTFd下的 .data(主要是我test期间的数据，后期上传版本前我会自己删)
-docker-compose up -d  # 直接启动什么都不要管
+sudo docker-compose up -d  # 直接启动什么都不要管
 ```
 
 默认端口是80可以修改的
