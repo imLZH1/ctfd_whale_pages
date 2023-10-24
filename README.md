@@ -1,4 +1,4 @@
-# CTFd v3.6.0 + ctfd-whale + ctfd-pages-theme
+# CTFd v3.6.0 + ctfd-whale + ctfd-pages-theme 集成修改版
 
 
 ## 系统建议
