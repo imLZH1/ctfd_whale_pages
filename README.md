@@ -1,6 +1,8 @@
 # CTFd v3.6.0 + ctfd-whale + ctfd-pages-theme 集成修改版
 
 
+- 麻烦给个 stars❤️
+
 ## 系统建议
 - Ubuntu 23.04
 - Ubuntu 22.04
