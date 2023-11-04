@@ -1,5 +1,8 @@
 # CTFd v3.6.0 + ctfd-whale + ctfd-pages-theme 集成修改版
 
+## 未来
+- AWDplus 功能
+
 
 - 麻烦给个 stars❤️
 
