@@ -37,7 +37,7 @@
  - 初始化集群
  
 ```python
-sudo docker swarm init
+sudo docker swarm init --force-new-cluster
 sudo docker node update --label-add='name=linux-1' $(sudo docker node ls -q)
 ```
 
