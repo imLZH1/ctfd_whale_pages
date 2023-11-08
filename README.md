@@ -1,5 +1,30 @@
 # CTFd v3.6.0 + ctfd-whale + ctfd-pages-theme 集成修改版
 
+
+## docker
+
+```python
+apt install docker
+apt install docker-compose
+```
+
+
+
+* docker加速
+
+```python
+/etc/docker/daemon.json 
+
+{
+  "registry-mirrors": [
+    "https://docker.mirrors.ustc.edu.cn"
+  ]
+}
+```
+
+
+
+
 ## 未来
 - AWDplus 功能
 
@@ -130,19 +155,6 @@ sudo apt install docker-compose
 
 
 
-
-
-* docker加速
-
-```python
-/etc/docker/daemon.json 
-
-{
-  "registry-mirrors": [
-    "https://docker.mirrors.ustc.edu.cn"
-  ]
-}
-```
 
 
 
