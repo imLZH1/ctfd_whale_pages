@@ -40,7 +40,7 @@
 sudo docker swarm init --force-new-cluster
 sudo docker node update --label-add='name=linux-1' $(sudo docker node ls -q)
 ```
-
+ 如果初始化都报错的话(下面的操作肯定也会报错)，那我就不知道了
 ​
 
 
