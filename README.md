@@ -161,6 +161,18 @@ sudo apt install docker-compose
 
 
 
+
+
+## 关闭解题播报
+
+ 注释即可
+
+![图片](https://github.com/imLZH1/ctfd_whale_pages/assets/60182298/d463d5f4-be2c-4163-a805-8a8d60377e4a)
+
+
+
+
+
 ## 常见报错
 
 
