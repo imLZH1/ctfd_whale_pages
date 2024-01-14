@@ -180,11 +180,11 @@ sudo apt install docker-compose
 
 
 
-## 交流群
+## 交流
 
 ```python
 
-蔡徐坤篮球协会 信息部
-QQ: 591613671
+可以Q 我
+QQ: 3461665835
 ```
 
