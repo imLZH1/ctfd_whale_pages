@@ -8,9 +8,14 @@
 * 矩阵记分板
 ‍
 
-## 基础信息
+- 想要 CTFd + 动态docker 环境？？ 那你来对地方了，有我这这一篇文件就够了！！
+- 配置简单且教程详细，还在等什么？赶快装一个！
 
-‍
+![image](https://github.com/imLZH1/ctfd_whale_pages/assets/60182298/ed2ace0a-233f-4826-8709-e2dcaf1c34b4)
+
+
+
+  
 
 * 步骤 1 - 4 是制作的过程。
 * 想无脑使用请从 `Releases`​  下载 zip(v3.6.1.zip) 解压到本地，然后看步骤5和6 既可。💩💩
