@@ -19,8 +19,27 @@
 ![image](https://github.com/imLZH1/ctfd_whale_pages/assets/60182298/54daeaec-32f6-4349-a88c-4701b76c6870)
 
 ‍
-[tpoc]
-
+- [CTFd集成修改版 ctfd_whale_pages](#ctfd集成修改版)
+  - [基础信息](#基础信息)
+  - [1.下载 CTFd](#1下载-ctfd)
+  - [2.更改 Dockerfile](#2更改-dockerfile)
+  - [3.更改 docker-compose.yml](#3更改-docker-composeyml)
+  - [3.配置 ctfd-pages-theme](#3配置-ctfd-pages-theme)
+  - [4.配置 CTFd-Whale 插件](#4配置-ctfd-whale-插件)
+  - [5.配置Ubuntu Docker 环境](#5配置ubuntu-docker-环境)
+    - [5.1安装 docker](#51安装-docker)
+    - [5.2初始化集群](#52初始化集群)
+    - [5.3尝试启动](#53尝试启动)
+    - [5.4进入后台配置网络](#54进入后台配置网络)
+  - [6.动态docker环境配置和测试](#6动态docker环境配置和测试)
+    - [6.1 docker环境模板](#61-docker环境模板)
+    - [build 制作一个镜像](#build-制作一个镜像)
+    - [在后台上传题目及附件](#在后台上传题目及附件)
+    - [测试环境](#测试环境)
+  - [7.其它的功能](#7其它的功能)
+    - [矩阵记分板](#矩阵记分板)
+    - [解题播报](#解题播报)
+  - [END 备注](#end-备注)
 ‍
 
 
