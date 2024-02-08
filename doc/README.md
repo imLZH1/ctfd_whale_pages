@@ -20,3 +20,16 @@ frp 配置文件 端口 和域名
 ![image](https://github.com/imLZH1/ctfd_whale_pages/assets/60182298/a1516ea7-9e8f-49cd-bdb4-713e9642e821)
 
 ![image](https://github.com/imLZH1/ctfd_whale_pages/assets/60182298/ff620c45-de07-435a-9f98-8b38455b3dbd)
+
+
+### 不使用域名，直接使用IP 访问Web挑战
+
+- 创建题目的时候 `Frp Redirect Type` 可以直接选择 `Direct` ,也可以正常使用，
+![image](https://github.com/imLZH1/ctfd_whale_pages/assets/60182298/c06f747f-fe34-472e-830a-11d5b4c264bb)
+
+- 建议在 tags 里 加一个 web ,这样的话，启动实例时返回的就是 http://ip:port了
+
+![image](https://github.com/imLZH1/ctfd_whale_pages/assets/60182298/8c587cf4-ff9a-40b4-946c-edb65066d766)
+![image](https://github.com/imLZH1/ctfd_whale_pages/assets/60182298/ccf2909a-25c2-45ac-a66a-9a262cfdbbf3)
+
+
