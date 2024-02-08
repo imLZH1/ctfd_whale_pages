@@ -47,7 +47,9 @@
   - [END 备注](#end-备注)
 
 ## 食用视频教程
+- 暂无
 
+- [配置 web挑战访问方法](https://github.com/imLZH1/ctfd_whale_pages/blob/main/doc/README.md)
 
 
 
