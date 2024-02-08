@@ -1,5 +1,9 @@
 ## Web 题目部署方案
-### 使用带有域名的来访问Web挑战
+
+- [方法1使用带有域名的来访问Web挑战](#方法1使用带有域名的来访问Web挑战)
+- [方法2不使用域名,直接使用IP访问Web挑战](#方法2不使用域名,直接使用IP访问Web挑战)
+
+### 方法1使用带有域名的来访问Web挑战
 
 端口 和域名
 ![image](https://github.com/imLZH1/ctfd_whale_pages/assets/60182298/c0fe82d0-0ccf-4f1b-9290-437b2f71e27d)
@@ -22,7 +26,8 @@ frp 配置文件 端口 和域名
 ![image](https://github.com/imLZH1/ctfd_whale_pages/assets/60182298/ff620c45-de07-435a-9f98-8b38455b3dbd)
 
 
-### 不使用域名，直接使用IP 访问Web挑战
+
+### 方法2不使用域名,直接使用IP访问Web挑战
 
 - 创建题目的时候 `Frp Redirect Type` 可以直接选择 `Direct` ,也可以正常使用，
 ![image](https://github.com/imLZH1/ctfd_whale_pages/assets/60182298/c06f747f-fe34-472e-830a-11d5b4c264bb)
