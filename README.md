@@ -199,7 +199,7 @@ services:
       - /conf/frps.ini
     ports:
       - 50000-50100:50000-50100  # 映射direct类型题目的端口 # 根据需求去改映射端口的数量，  如果你的 ubuntu 性能太低，可以搞少一些
-      - 9123:9123  # 映射http类型题目的端口 ,这里无所谓，无论是 pwn 还是 web 都可以使用 direst 的端口
+      - 8080:8080  # 映射http类型题目的端口 
     networks:
       default:
       frp_connect:
@@ -328,7 +328,7 @@ admin_port = 7400
 ```conf
 [common]
 bind_port = 7000
-vhost_http_port = 9123
+vhost_http_port = 8080
 token = your_token
 subdomain_host = node.vaala.ink
 ```
