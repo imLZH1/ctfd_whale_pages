@@ -786,7 +786,7 @@ current_app.events_manager.publish(data=response.data, type="notification")$
 
 ## END 备注
 
-* 如果遇到问题可以联系我：---`QQ: 3461665835`​---
+* 如果遇到问题可以联系我：~~`QQ: 3461665835`~~
 * 可以在链接里的下方评论留言 https://imlzh1.github.io/posts/Announcements/
 
 * 我都水平不是太高，有些地方不会改
